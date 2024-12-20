@@ -1,5 +1,6 @@
-- 👋 Hola, Soy Alexander Mamani Villazante
+👋 Hola, Soy Alexander Mamani Villazante
 Soy un apasionado de la administración de redes y el desarrollo web. Me encanta trabajar en proyectos que conectan a las personas y optimizan sistemas, utilizando tanto mi conocimiento técnico como mi habilidad para resolver problemas.
+
 🔧 Habilidades y Tecnologías
 Redes: Configuración y administración de redes LAN/WAN, manejo de servidores, seguridad informática y resolución de problemas de conectividad.
 
